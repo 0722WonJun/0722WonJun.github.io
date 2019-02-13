@@ -24,7 +24,7 @@ company_name: yourname
 
 # Build settings
 markdown: kramdown
-baseurl:
+baseurl:/assets
 permalink: /:title/
 
 #Have to show future posts for future events.
