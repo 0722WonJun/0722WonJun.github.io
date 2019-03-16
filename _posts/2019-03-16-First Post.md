@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test Page"
+title: "Test Page3"
 ---
 
 ## 반갑습니다.
